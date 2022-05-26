@@ -1,0 +1,18 @@
+
+
+.form{
+  position: fixed;
+  justify-content:center;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  margin-left: 38%;
+
+}
+
+.card-img{
+  margin-left: 4%;
+  margin-right: 10%;
+  margin-top: 10%;
+}
+  
